@@ -2,7 +2,7 @@ import json
 import operator
 
 def treeVote(tree,object):
-    if '好瓜' == tree or '坏瓜' == tree:
+    if type(tree) is str:
         return tree
     for feature in tree.keys():
         for key in tree.get(feature):
