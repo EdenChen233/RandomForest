@@ -1,18 +1,18 @@
-# RandomForest
+[# RandomForest
 
 随机森林算法，随机构建多棵决策树，多颗决策树对object类别进行投票，票数多者即为随机森林输出的object的类别
 
 ## 内容列表
 
-- [1.介绍](#1.介绍)
+- [1.介绍](#1.re)
 - [2.环境](#2.环境)
 - [3.使用说明](#3.使用说明)
   - [Step1](#Step1)
   - [Step2](#Step2)
   - [Step3](#Step3)
 - [4.相关文章](#4.相关文章)
-- 
-## 1.介绍
+
+##1.re
 
 该文档是为了帮助你快速了解该算法的操作流程
 
@@ -108,3 +108,4 @@ https://zhuanlan.zhihu.com/p/266880465
 #### 一文看懂随机森林 - Random Forest（附 4 个构造步骤+10 个优缺点）
 https://zhuanlan.zhihu.com/p/266880465
 
+](https://github.com/Gintamaster/RandomForest.git)
