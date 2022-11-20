@@ -108,4 +108,3 @@ https://zhuanlan.zhihu.com/p/266880465
 #### 一文看懂随机森林 - Random Forest（附 4 个构造步骤+10 个优缺点）
 https://zhuanlan.zhihu.com/p/266880465
 
-](https://github.com/Gintamaster/RandomForest.git)
