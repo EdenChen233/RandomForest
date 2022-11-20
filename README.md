@@ -1,4 +1,4 @@
-[# RandomForest
+# RandomForest
 
 随机森林算法，随机构建多棵决策树，多颗决策树对object类别进行投票，票数多者即为随机森林输出的object的类别
 
